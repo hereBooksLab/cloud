@@ -1,0 +1,6 @@
+[submodule "sidecar"]
+	path = sidecar
+	url = git@github.com:hereBooksLab/sidecar.git
+[submodule "eureka"]
+	path = eureka
+	url = git@github.com:hereBooksLab/eureka.git
